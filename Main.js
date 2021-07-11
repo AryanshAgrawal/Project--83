@@ -88,5 +88,5 @@ console.log(current_position_of_mouse_x,current_position_of_mouse_y);
     }
     lastpositionofmousex = current_position_of_mouse_x;
     lastpositionofmousey = current_position_of_mouse_y;
-    console.log(lastpositionofx,lastpositionofy);
+    console.log(lastpositionofmousex,lastpositionofmousey);
 }
